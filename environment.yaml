@@ -1,0 +1,24 @@
+name: sdg
+channels:
+  - pytorch
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9.7
+  - pytorch=1.8.0
+  - torchvision=0.9.0
+  - cudatoolkit=11.1
+  - matplotlib
+  - tensorboard
+  - scipy
+  - opencv-python
+  - tqdm
+  - opt_einsum
+  - imageio
+  - scikit-image
+  - p7zip
+  - einops
+  - ptflops
+  - yacs
+  - loguru
+  - pillow
